@@ -1,4 +1,4 @@
-# SASTA CLASH OF CLANS
+# Wu Tank Clan
 
 ## Style:
 + Code is writern in python3 using OOPS concepts
